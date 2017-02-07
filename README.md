@@ -1,5 +1,7 @@
-# Python Starter Overview
+# Bluemix Python App Sample
+The application repo that accompanies the recipe: [Separating Continuous Integration from Continuous Deployment using GitHub and Travis CI](https://developer.ibm.com/recipes/tutorials/separating-continuous-integration-from-continuous-deployment-using-github-and-travis-ci/)
 
+## Python Starter Overview
 The Python Starter demonstrates a simple, reusable Python web application.
 
 ## Run the app locally
